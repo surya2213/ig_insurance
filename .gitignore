@@ -1,3 +1,5 @@
-# * .html
-# * .cpp
-:
+
+*.html
+*.cpp
+*.htpp
+*.http
